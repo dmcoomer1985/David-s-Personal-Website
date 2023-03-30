@@ -1,0 +1,40 @@
+html {
+    background-color: orange;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    text-align: right;
+    font-size: 15px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+p {
+    text-align:center;
+    font-size: 25px;
+    color:forestgreen
+}
+
+.media-link {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        Height: 50px
+        
+        
+}
