@@ -2,6 +2,31 @@ html {
     background-color: orange;
 }
 
+#my-name {
+    font-size: 15px;
+    display: flex;
+    justify-content: left;
+    color: teal;
+}
+
+#nav-links {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+
+a {
+    display:inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+    background-color: orange;
+}
+a:hover {
+    color: darkcyan;
+}
 h1 {
     font-size: 20px;
 }
@@ -30,11 +55,11 @@ p {
     color:forestgreen
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+}
+
 .media-link {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        Height: 50px
-        
-        
+    height: 50px;
 }

@@ -1,3 +1,11 @@
+body{
+    background-image:url('arrangement-cinema-objects-close-up.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+   }     
+
 h1 {
     font-size: 20px;
     font-weight: 400;
@@ -16,3 +24,26 @@ p {
     color: white;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
+
+
+main {
+    background-color: white;
+    margin: 0 5rem;
+    padding: 1rem 2rem;
+}
+
+header {
+    margin-bottom: 1rem;
+ }
+
+ .links {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+ }
+
+ a {
+    color: yellow;
+    font-weight: 800;
+
+ }
