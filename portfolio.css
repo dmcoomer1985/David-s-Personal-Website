@@ -30,3 +30,18 @@ p {
     
 
 }
+
+a {
+    display:inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+    background-color: orange;
+}
+
+a:hover {
+    color: purple;
+}
+
