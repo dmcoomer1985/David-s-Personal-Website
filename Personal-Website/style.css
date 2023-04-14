@@ -9,6 +9,10 @@ html {
     color: teal;
 }
 
+#greeting {
+    color: green;
+}
+
 #nav-links {
     display: flex;
     justify-content: space-between;

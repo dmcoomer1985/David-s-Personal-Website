@@ -1,6 +1,6 @@
 h1 {
     font-size: 20px;
-
+    color:darkslategray
 }
 
 html {
@@ -64,7 +64,11 @@ a:hover {
     color: purple;
 }
 
-
+.links {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
 
 
 
