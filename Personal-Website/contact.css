@@ -4,7 +4,7 @@ h1 {
 }
 
 html {
-    background: orange
+    background: rgb(224, 161, 161)
 }
 
 
@@ -12,7 +12,7 @@ html {
 
 form {
     width: 400px;
-    margin: 0 auto;
+    margin: 100px auto;
     font-size: 16px;
     line-height: 1.5;
 }

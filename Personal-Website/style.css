@@ -9,9 +9,8 @@ html {
     color: teal;
 }
 
-#greeting {
-    color: green;
-}
+
+
 
 #nav-links {
     display: flex;
@@ -40,10 +39,23 @@ h2 {
     font-size: 15px;
 }
 
-h3 {
+#greeting {
+  color: brown;
+  text-align: center;
+  font-size: 40px;
+}
+
+#skills {
     text-align: center;
-    font-size: 40px;
-    color: brown;
+    font-size: 25px;
+    color: red
+}
+
+
+#goals {
+    text-align: center;
+    font-size: 25px;
+    color:blanchedalmond
 }
 
 .center {
@@ -53,11 +65,7 @@ h3 {
     width: 30%;
 }
 
-p {
-    text-align:center;
-    font-size: 25px;
-    color:forestgreen
-}
+
 
 footer {
     display: flex;
